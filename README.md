@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora de percentual de gordura</h1>
 <h2 align="center">(en = Body faty calculator)</h2>
 <div>
-<a href="https://fuelcalculator.netlify.app" target="_blank" rel="noopener noreferrer">https://fuelcalculator.netlify.app/</a>
+<a href="bodyfactcalculator.netlify.app" target="_blank" rel="noopener noreferrer">bodyfactcalculator.netlify.app/</a>
   <p align="left">
     <li> Sobre (About)</li>
     <li>Tecnoligias (Tecnoligies)</li>
