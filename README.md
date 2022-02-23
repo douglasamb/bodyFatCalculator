@@ -1,5 +1,5 @@
-<h1 align="center">Calculadora de gastos com combustível na viagem</h1>
-<h2 align="center">(en = Travel fuel expenses calculator)</h2>
+<h1 align="center">Calculadora de percentual de gordura</h1>
+<h2 align="center">(en = Body faty calculator)</h2>
 <div>
 <a href="https://fuelcalculator.netlify.app" target="_blank" rel="noopener noreferrer">https://fuelcalculator.netlify.app/</a>
   <p align="left">
